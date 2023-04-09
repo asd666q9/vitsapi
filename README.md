@@ -14,7 +14,7 @@ https://gitee.com/dullwolf/dwBot/blob/bot1.0/README.md
 
 login
 
-get_model   （可以使用代码中的name_list代替  name_list的结构为   序号,modelId,roleId,角色名,作品,语言 
+get_model   (可以使用代码中的name_list代替  name_list的结构为   [序号,modelId,roleId,角色名,作品,语言]    ) 
 
 model.get_voice_by_base64
 
