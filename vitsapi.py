@@ -2,8 +2,9 @@
 """
 Created on Sun Apr  9 10:51:39 2023
 
-@author: Administrator
+@author:asd666q9
 """
+#github项目地址   https://github.com/asd666q9/vitsapi
 
 import httpx
 
