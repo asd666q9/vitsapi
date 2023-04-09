@@ -13,7 +13,7 @@ import base64
 
 
 qq="370837546"
-pwd="1bf5f934-c27d-45e5-99fd-53a3c10d31e9"
+pwd=""    #在群691432604 内输入#SOV 验证码 获取你qq的验证码
 params = {"account": qq, "code": pwd}
 
 
